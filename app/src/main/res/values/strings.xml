@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Program 01</string>
+
+    <string-array name="school_choices">
+        <item>Saginaw Valley State University</item>
+        <item>Grand Valley State University</item>
+        <item>Michigan State University</item>
+        <item>Ferris State University</item>
+        <item>Central Michigan University</item>
+        <item>University of Michigan</item>
+    </string-array>
+
+    <string name="bachelors">Bachelor\'s</string>
+    <string name="masters">Master\'s</string>
+
+</resources>
